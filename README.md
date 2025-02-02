@@ -102,7 +102,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Created by [Your Name](https://github.com/arghads9177). Feel free to reach out!
+Created by [Argha Dey Sarkar](https://github.com/arghads9177). Feel free to reach out!
 
 ---
 
