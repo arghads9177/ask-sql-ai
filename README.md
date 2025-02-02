@@ -18,7 +18,7 @@ AskSQL AI is an intelligent SQL builder app that leverages AI to generate SQL qu
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/asksql-ai.git
+git clone https://github.com/arghads9177/asksql-ai.git
 cd asksql-ai
 ```
 
